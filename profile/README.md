@@ -141,7 +141,7 @@ Bravixo-ERP/
 
 **Desenvolvido com dedicação por**
 
-[![Gabriel10ag](https://img.shields.io/badge/Gabriel10ag%20👑%20Fundador-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/Gabriel10ag)
+[![Gabriel10ag](https://img.shields.io/badge/Gabriel10ag%20-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/Gabriel10ag)
 [![joaobragheroli](https://img.shields.io/badge/joaobragheroli-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/joaobragheroli)
 [![EduardoBellussi](https://img.shields.io/badge/EduardoBellussi-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/EduardoBellussi)
 [![cleyton07](https://img.shields.io/badge/cleyton07-0f172a?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/cleyton07)
